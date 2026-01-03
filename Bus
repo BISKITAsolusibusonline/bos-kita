@@ -1,0 +1,3 @@
+npm create vite@latest biskita -- --template react-ts
+cd biskita
+npm install
